@@ -23,5 +23,23 @@ The tables on the 5 tables are:
 
 # Data Transformation and Modeling:
 Various transformations were made to this dataset, which included correct specifications of the data types per column to ensure proper analysis, handling of null values and modeling.
-The data was loaded into power pivot for advanced analytics. In power pivot, I firstly created a calendar table to ensure the use of a unified calendar for my analysis using the DAX function  The calendar table is shown below:
+The data was loaded into power pivot for advanced analytics. In power pivot, I firstly created a calendar table to ensure the use of a unified calendar for my analysis using the CALENDAR DAX function  The calendar table is shown below:
 [[Attach photo of calendar table]]
+
+I also noticed that the sales data started from July 2017. Using such dates like that will give inaccurate conclusions as July will be counted as the 7 month while it was actually the 1st month of sales for the company, hence the need for fiscal date calculations.
+I employed my knowledge of DAX functions to create several fiscal date columns. The functions used are: 
+[[Insert DAX for fiscal year]]
+[[Insert DAX for fiscal month]]
+[[Insert DAX for fiscal month number]]
+[[Insert DAX for fiscal Quarter]]
+
+The new table with all columns calculated is shown below:
+[[Attach calendar full table]]
+
+## Modeling:
+Cleaning and modeling data correctly is the most important step to take before Analysis. Otherwise analysis will never be accurate. Thus a very good understanding of modeling data and how to relate fact and dimension tables together is core to achieving a successful data model. 
+I carried out the modeling of this data on power pivot and the model is shown on the image below:
+[[Attach data model]]
+
+# Data Analysis and Visualization:
+The data from power pivot model was then loaded into pivot tables for analysis 
