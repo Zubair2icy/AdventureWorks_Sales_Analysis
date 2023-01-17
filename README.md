@@ -2,10 +2,21 @@
 This is a dashboard from several reports built using Microsoft Excel for exploring the sales by adventure works
 
 # What is Adventure Works?
-AdventureWorks is a frictious bicycle manufacturing database designed by Microsoft. The Organization is based in Bothell, Washington and sells to other part of the world. The database contain information about Sales, Purchasing, Production, Contact management and Human resources.
+AdventureWorks is a frictious bicycle manufacturing database designed by Microsoft. The Organization is based in Bothell, Washington and sells to other part of the world. The database contain information about Sales, Purchasing, Production, Contact management and Human resources. ENJOY!
 
 # Project Objective:
 This project only serve as an exploratory of the sales data to better understand the companies progress so far and recommend ways to improve the companies revenue.
+In this project, I have sufficiently displayed my indepth knowledge and expeerience in the following:
+1. Problem-solving and decision-making skills,
+2. Analytical and critical thinking skills,
+3. Power query and m-language for advanced data importation and manipulation,
+4. Power pivot for advanced data modeling and analysis,
+5. Data Analysis Expression (DAX) foradvanced analytics,
+6. Creation of calculated tables, columns and measures in power pivot for analysis,
+7. Pivot tables, and accurate use of slicers,
+8. Customized visualizations and story-telling with data
+9. Creation of dashboard and linking of reports in microsoft excel,
+10. Automation, macros and VBA in microsoft excel.
 
 # Data Source: 
 The datasets used consisted of 5 tables containing various information which can be downloaded here. 
@@ -42,4 +53,13 @@ I carried out the modeling of this data on power pivot and the model is shown on
 [[Attach data model]]
 
 # Data Analysis and Visualization:
-The data from power pivot model was then loaded into pivot tables for analysis 
+The data from power pivot model was then loaded into pivot tables for analysis.
+
+## Revenue over Time Analysis
+The total revenue grew per year exponentially except in 2020  which was most likely due to the pandemic.
+[[Attach picture of YoY Growth]]
+
+This shows the drill down by month to see the Month over Month Growth in Revenue
+[[Attach picture of MoM Growth]]
+
+
