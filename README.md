@@ -79,5 +79,15 @@ This poor experience is clearly visible in the massive drop down of customers on
 
 
 # Recommendations:
+1. A diagnostic analysis should be carried out to study why other regions have been generating poor revenues over the years.
+2. Issues of delay in delivery of products to customers should be addressed for better customer satisfaction.
+3. In depth analysis should be done to understand how the categories of products are being purchased to boost revenue production.
 
+
+# Dashboard
+This is a picture of the completed dashboard. Click here to send am email for a copy of thr dashboard to interact with.
+
+[[Attach dashboard picture]]
+
+Thanks! Enjoy.
 
