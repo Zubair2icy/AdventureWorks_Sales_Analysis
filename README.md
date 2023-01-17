@@ -62,4 +62,22 @@ The total revenue grew per year exponentially except in 2020  which was most lik
 This shows the drill down by month to see the Month over Month Growth in Revenue
 [[Attach picture of MoM Growth]]
 
+## Revenue by Region and Country
+Consistently for over the years, United States have made higher sales than other region. The reason for the poor sales in other region should be looked into and investigated properly.
+[[Attach picture of map]]
+
+## Revenue and Product Categories
+Bikes sales yield far higher revenues than others even though a lesser number of it is been sold compared to components that yeild a lower revenue. 
+[[Attach picture of revenue and category]]
+
+## Customer Satisfaction Analysis:
+The report shows there's always delivery delay in about half of orders sold yearly. This translates to a poor customer experience.
+[[Attach picture of delays]]
+
+This poor experience is clearly visible in the massive drop down of customers on the chart below. Customer loss is highest in 2020 due to COVID-19 pandemic and the lockdown in almost all countries.
+[[Attach picture of waterfall chart]]
+
+
+# Recommendations:
+
 
